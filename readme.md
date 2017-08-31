@@ -1,5 +1,7 @@
 ### Load data from Google Sheets (including multiple worksheets) and display on page
 
+![Screen grab of formatted data in browser](https://github.com/pualv/sheetsmenu/blob/master/menu%20screen%20grab.png)
+Screen grab of formatted data in browser
 
 The formatting is fixed for a food menu so will only handle four columns (but any number of rows) from the spreadsheet.
 
