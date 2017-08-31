@@ -1,14 +1,17 @@
-### Load data from Google Sheets (including multiple worksheets) and display on page
+### Load data from Google Sheets (including multiple worksheets) and display on web page
 
 ## What's the point of this?
-**Allows clients to update a small piece of content where otherwise a CMS would be overkill. For example, a food menu.**
+**Allows website clients to update a small piece of content on websites where a full CMS would be overkill.**
+
 **Provides a simple way of updating a website in a format that most businesses understand.**
 
-**No need for any login/admin function as this is taken care of by Google.**
+**No need for any website login or admin function as this is taken care of by Google.**
 
 ![Screen grab of formatted data in browser](https://github.com/pualv/sheetsmenu/blob/master/menu%20screen%20grab.png)  
 
 *Screen grab of formatted data in browser*
+
+*****
 
 The formatting is fixed for a food menu so will only handle four columns (but any number of rows) from the spreadsheet.
 
