@@ -1,4 +1,4 @@
-###Load data from Google Sheets (including multiple worksheets) and display on page
+### Load data from Google Sheets (including multiple worksheets) and display on page
 
 
 The formatting is fixed for a food menu so will only handle four columns (but any number of rows) from the spreadsheet.
